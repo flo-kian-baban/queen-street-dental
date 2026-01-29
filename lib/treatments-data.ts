@@ -240,7 +240,7 @@ export const TREATMENTS_DATA: TreatmentCategory[] = [
             },
             {
                 "title": "Invisalign",
-                "href": "/invisalign/",
+                "href": "/treatments/orthodontics/invisalign",
                 "description": "Invisalign is an orthodontic appliance system used to inconspicuously treat crooked and crowded teeth in adults and teens. This modern take on braces features a system of clear aligner trays that are worn at all times with the exception of during meals and when...",
                 "imageUrl": "https://s16736.pcdn.co/wp-content/uploads/sites/374/2017/07/Invisalign-400x250.jpg.optimal.jpg"
             },

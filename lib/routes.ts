@@ -22,6 +22,7 @@ export const ROUTES = {
     PERIODONTAL_DISEASE: "/treatments/periodontal-disease",
     RESTORATIONS: "/treatments/restorations",
     ORTHODONTICS: "/treatments/orthodontics",
+    INVISALIGN: "/treatments/orthodontics/invisalign",
     ENDODONTICS: "/treatments/endodontics",
     DENTAL_IMPLANTS: "/treatments/dental-implants",
     ORAL_SURGERY: "/treatments/oral-surgery",

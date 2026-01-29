@@ -85,9 +85,9 @@ export default function Footer() {
 
                     {/* Credits */}
                     <div className="flex flex-wrap justify-center gap-x-4 gap-y-2 text-center">
-                        <span>Designed by <a href="https://o360.com/" target="_blank" className="text-gray-600 hover:text-accent">Flo Suites</a></span>
+                        <span>Designed by <a href="https://o360.com/" target="_blank" className="text-gray-600 hover:text-accent"></a></span>
                         <span className="hidden md:inline">|</span>
-                        <span>Copyright © 2026 Flo Suites INC</span>
+                        <span>Copyright © 2026 INC</span>
                         <span className="hidden md:inline">|</span>
                         <Link href={ROUTES.PRIVACY_POLICY} className="hover:text-accent">Privacy Policy</Link>
                         <span>|</span>
