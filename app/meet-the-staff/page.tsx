@@ -201,7 +201,6 @@ export default function MeetTheStaffPage() {
         <div className="bg-white">
             <PageHeader
                 title="Meet The Staff"
-                className=""
                 backgroundImage=""
             />
 
